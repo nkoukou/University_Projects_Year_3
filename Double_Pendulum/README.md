@@ -1,4 +1,4 @@
-Computational Physics projects which examines the dynamics of the single and double pendulum as well as the numerical stability of the various methods used.
+Computational Physics project which examines the dynamics of the single and double pendulum as well as the numerical stability of the various methods used.
 
 Code files include:
 
