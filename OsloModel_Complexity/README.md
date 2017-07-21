@@ -1,4 +1,4 @@
-Complexity projects which examines self-organised criticality in the Oslo model.
+Complexity project which examines self-organised criticality in the Oslo model.
 
 Code files include:
 
@@ -7,4 +7,4 @@ Code files include:
 * analysis.py which analyses produced data
 * MAIN.py which plots the figures of the report
 
-All three modules contain documentation to help the user explore them.
+All modules contain documentation to help the user explore them.
