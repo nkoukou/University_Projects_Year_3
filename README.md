@@ -6,3 +6,5 @@ The projects are:
 
 * Double_Pendulum (part of Computational Physics course)
 * EDM_Assembly (part of Computational Physics course)
+* OsloModel_Complexity (part of Complexity and Networks course)
+* Growing_Networks (part of Complexity and Networks course)
